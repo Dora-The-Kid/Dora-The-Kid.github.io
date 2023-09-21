@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="/images/index_intro.jpg" class="floatpic" width="360" height="480">
 
 Here is **Yi Ren (任毅)**.
 
