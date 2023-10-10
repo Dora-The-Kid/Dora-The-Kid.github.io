@@ -14,7 +14,7 @@ I am a master student majoring in **Computational Neuroscience** at University o
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2024 Fall. Contact me if you have any leads!**
+**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2024 Fall. Contact me if you have any ideas!**
 
 - **Sep 2015 - June 2019:** Lanzhou University (BS)
 - **Sep 2019 - May 2023:** University of Science and Technology of China (MS)
