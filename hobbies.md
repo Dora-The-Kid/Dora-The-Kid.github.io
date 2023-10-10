@@ -6,41 +6,41 @@ title: Hobbies
 
 # Hobbies
 
-## Teaching & Workshops
+## Video making & Photographing
 
-<div class="third">
-<img src="/images/prelection1.JPG">
-<img src="/images/speech1.JPG">
-<img src="/images/speech3.JPG">
-</div>
-<br>There must be **something truly magical** about standing on stage to give [a fantastic speech], which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite lecturer** at the [best universities in my hometown].
-
-[a fantastic speech]:https://youtu.be/Dzx84KpGNoE
-[best universities in my hometown]:https://www.fzu.edu.cn/
+<br> Vedio is a good way to express myself, spread knowlodge and share the fasntastic things I've experienced. However, I have no time to do any of these things recently.
+ [My-bilibili-account](https://space.bilibili.com/29976943/video)
 
 
 
-## Swimming & Surfing
+
+## Outdoor Adventure & Environmental Protection
 
 <div class="third">
 <img src="/images/swimming2.JPG">
 <img src="/images/swimming.JPG">
 <img src="/images/surfing1.JPG">
 </div>
-<br>Swimming removes my worries, refreshes my body, and brings me courage to address any challenges. I extremely enjoy the feeling of being immersed in the water. Besides, I am a member of the Swimming Team at Fuzhou University, where I meet many sincere friends. I have reached **China National Second-level athlete Standard** in 50m breaststroke and won **Five Gold Medals** during my swimming career. Recently, I am also keen on surfing.
+<br>Nature consistently impresses me with its splendid scenery and intricate ecological systems. I relish every adventure that comes with exploring the natural world.
 
-## Past Hobbies
 
-I previously enjoyed long-distance running, [vlog making](https://space.bilibili.com/594030035), and computer game developing/playing. However, I have no time to do any of these things recently.
-
-## My Cat
-
-This is my love. Her name is Qbo (Q宝).
-
-<div>
-<img src="/images/cat.JPG">
+## Fitness and Football
+<div class="third">
+<img src="/images/swimming2.JPG">
+<img src="/images/swimming.JPG">
+<img src="/images/surfing1.JPG">
 </div>
-<br>
+<br>Physical exercise removes my worries, refreshes my body, and brings me courage to address any challenges. I am a member of track and field team in Lanzhou University and have won the third prize in sport meeting of college. Besides, I am a big fans of American Football Game. My favorite player is Tom Brady. 
+
+
+## Making Model Plane
+<div class="third">
+<img src="/images/swimming2.JPG">
+<img src="/images/swimming.JPG">
+<img src="/images/surfing1.JPG">
+</div>
+<br>Recently, I've discovered a passion for designing and building airplanes. However, optimizing the aerodynamic configuration on my own is challenging. I am trying to achieve this using deep learning methods.
+
 
 ## Chat with me
 
