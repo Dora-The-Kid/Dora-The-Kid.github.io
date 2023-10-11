@@ -46,7 +46,7 @@ links:
   - title: Hobbies
     url: /hobbies/
   - title: Projects
-    url: /Projects/
+    url: /projects/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
