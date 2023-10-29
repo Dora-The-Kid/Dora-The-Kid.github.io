@@ -4,9 +4,9 @@ permalink: /projects/index.html
 title: Projects
 ---
 
+- []()<br>
 
-
-### 2023
+<!-- ### 2023
 
 - 如何平衡学业、科研和恋爱？
 - [数学建模竞赛的成功四要素](https://caihanlin.com/blogs/team2023)
@@ -26,7 +26,7 @@ title: Projects
 ### 2020
 
 - [18岁，缓慢受锤的黄金年代](https://caihanlin.com/blogs/18yrs)<br>
-- [本科博客，笔记，回忆录](https://mieclance.club/)
+- [本科博客，笔记，回忆录](https://mieclance.club/) -->
 
 <br>
 
