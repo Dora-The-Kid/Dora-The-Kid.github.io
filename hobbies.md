@@ -23,15 +23,6 @@ title: Hobbies
 </div>
 <br>Nature consistently impresses me with its splendid scenery and intricate ecological systems. I relish every adventure that comes with exploring the natural world.
 
-
-## Fitness and Football
-<div class="third">
-<img src="/images/exercise_0.jpg">
-<img src="/images/exercise_1.jpg">
-</div>
-<br>Physical exercise removes my worries, refreshes my body, and brings me courage to address any challenges. I am a member of track and field team in Lanzhou University and have won the third prize in sport meeting of college. Besides, I am a big fans of American Football Game. My favorite player is Tom Brady. 
-
-
 ## Making Model Plane
 <div class="third">
 <img src="/images/airplane.jpg">

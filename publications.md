@@ -11,9 +11,7 @@ title: Publications
 
 ## Working Manuscript
 
--  **Ren Y.**,  Li X.W.,  Xiao Y.,  Lau P.M.,  Bi G.Q.,  “Reverberation, a model of mnemonic persistent activity”, Manuscript in Preparation.<br>
 
-- **Ren Y**., Li J.,  “Gaussian pyramid WIRE”,  Manuscript in Preparation.
 
   <br>
 

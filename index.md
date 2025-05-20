@@ -8,7 +8,7 @@ layout: page
 
 Here is **Yi Ren (任毅)**.
 
-I am a master student majoring in **Computational Neuroscience** at University of Science and Technology of China. Currently, I am working as a research assistant in the **LNP Lab**, advised by [Prof. Guoqiang Bi ](https://scholar.google.com/citations?user=CPFlBLoAAAAJ&hl=zh-CN)and [Yanyang Xiao](https://www.researchgate.net/profile/Yanyang-Xiao). Here is [[my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf)].
+I am a master student majoring in **Computational Neuroscience** at UTSW. Currently, I am a PhD student in the **Wenhao's Lab**, advised by [Prof. Wenhao Zhang ](https://scholar.google.com.hk/citations?user=TqGPd9QAAAAJ&hl=en). 
 
 <br>
 
@@ -19,7 +19,7 @@ I am a master student majoring in **Computational Neuroscience** at University o
 - **Sep 2015 - June 2019:** Lanzhou University (BS)
 - **Sep 2019 - May 2023:** University of Science and Technology of China (MS)
 - **June 2020 - Nov 2023:** Shenzhen Institute of Advanced Technology，Chinese Academy of Sciences (Visiting)
-- Looking for PhD position!
+- **Sept 2024 - now:** UTSW
 
 <br>
 
