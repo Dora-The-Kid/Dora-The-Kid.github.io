@@ -8,13 +8,11 @@ layout: page
 
 Here is **Yi Ren (任毅)**.
 
-I am a master student majoring in **Computational Neuroscience** at UTSW. Currently, I am a PhD student in the **Wenhao's Lab**, advised by [Prof. Wenhao Zhang ](https://scholar.google.com.hk/citations?user=TqGPd9QAAAAJ&hl=en). 
+I am a PhD student majoring in **Computational Neuroscience** at UTSW. Currently, I am work in the **Wenhao's Lab**, advised by [Prof. Wenhao Zhang ](https://scholar.google.com.hk/citations?user=TqGPd9QAAAAJ&hl=en). 
 
 <br>
 
 ## Academic Background
-
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2024 Fall. Contact me if you have any ideas!**
 
 - **Sep 2015 - June 2019:** Lanzhou University (BS)
 - **Sep 2019 - May 2023:** University of Science and Technology of China (MS)
